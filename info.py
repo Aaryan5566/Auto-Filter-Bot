@@ -60,7 +60,7 @@ else:
 IS_FSUB = is_enabled('IS_FSUB', True)
 
 # support group
-SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '') #support group id ex:  -1002936246860
+SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1002250999630') #support group id ex:  -1002936246860
 if len(SUPPORT_GROUP) == 0:
     print('Error - SUPPORT_GROUP is missing, exiting now')
     exit()
