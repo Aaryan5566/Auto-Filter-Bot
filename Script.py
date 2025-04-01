@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """<b>​​​ʜɪɪ 👋, 
-ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴇᴅɪᴀ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇᴅ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ. ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ .</b>"""
+ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴇᴅɪᴀ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇᴅ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ. ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ.\n\n<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/ACX_NETWORK">ACX Nᴇᴛᴡᴏʀᴋ [🇮🇳]</a></blockquote></b>"""
 
     FEATURES_TXT = """<b>ʜᴇʀᴇ ɪꜱ ᴀʟʟ ᴍʏ ꜰᴜɴᴛɪᴏɴꜱ.</b>"""
 
@@ -311,7 +311,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/SilentXBotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/SilentXBotz>[SilentXBotz]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/ACXBOTZ_UPDATE">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/ACXBOTZ_UPDATE>[Mʏ Iɴғᴏ X Bᴏᴛᴢ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
