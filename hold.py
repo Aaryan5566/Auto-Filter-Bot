@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = "https://panicky-tamera-thehyper333-c14b0cd9.koyeb.app/"
+url = "https://fresh-berrie-thehyper333-4759102f.koyeb.app/"
 
 while True:
     try:
